@@ -1,0 +1,12 @@
+{
+    "name": "inphinit/inphinit",
+    "description": "A framework for easy creation of routes",
+    "keywords": [ "framework" ],
+    "license": "MIT",
+    "type": "project",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "vendor-dir": "system/vendor"
+    }
+}
