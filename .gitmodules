@@ -1,3 +1,4 @@
 [submodule "system/vendor/inphinit/framework"]
 	path = system/vendor/inphinit/framework
 	url = https://github.com/inphinit/framework.git
+	branch = 0.5.0
